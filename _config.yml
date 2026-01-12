@@ -14,19 +14,19 @@ timezone: Europe/Lisbon
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Pre-COSYNE Brainhack 2026 # the main title
+title: Pre-FENS Brainhack 2026 # the main title
 
-tagline: March 10–11 2026, Lisbon # it will display as the subtitle
+tagline: July 5 2026, Barcelona # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  The 2026 edition of the Pre-COSYNE Brainhack in Lisbon, Portugal.
+  The 2026 edition of the Pre-FENS Brainhack in Barcelona, Spain.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://pre-cosyne-brainhack.github.io/"
+url: "https://mchini.github.io"
 
 github:
-  username: pre-cosyne-brainhack # change to your GitHub username
+  username: mchini # change to your GitHub username
 
 # twitter:
 #   username: twitter_username # change to your Twitter username
@@ -34,8 +34,8 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Pre-COSYNE Brainhack
-  email: brainhack.cosyne@gmail.com # change to your email address
+  name: Pre-FENS Brainhack
+  email: brainhack.FENS@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username # change to your Twitter homepage
@@ -59,7 +59,7 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   goatcounter:
-    id: precosynebrainhack
+    id: preFENSbrainhack
 
 # Page views settings
 pageviews:
@@ -98,7 +98,7 @@ toc: true
 comments:
   provider: giscus
   giscus:
-    repo: "pre-cosyne-brainhack/hackathon2026"
+    repo: "fens-hack"
     repo_id: "R_kgDOQTe1Ww"
     category: "Discussions"
     category_id: "DIC_kwDOQTe1W84CxrIe"
@@ -129,7 +129,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "/hackathon2026"
+baseurl: "/fens-hack"
 
 # ------------ The following options are not recommended to be modified ------------------
 
