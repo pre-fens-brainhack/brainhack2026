@@ -5,7 +5,7 @@ order: 40
 ---
 
 Will travel or accommodation be provided?
-: We are unable to provide accommodation for participants. A limited amount of travel grants (train tickets only) may be available. 
+: We are unable to provide accommodation for participants. A limited amount of travel grants are available to SENC members. 
 
 Who is eligible to participate?
 : Anyone with some programming experience is welcome to participate! However, you must apply in advance and, due to space constraints, we may not be able to accommodate everyone.
