@@ -17,12 +17,13 @@ table th:nth-of-type(2) {
 
 | Time  | Description                                     |
 | :---- | :---------------------------------------------- |
+| 08:30 | Introduction                                    |
 | 09:00 | Introduction                                    |
 | 09:30 | Hacking                                         |
 | 12:00 | Lunch                                           |
 | 13:00 | Hacking                                         |
 | 14:00 | RSE presentation                                |
-| 15:30 | Hacking                                         |
+| 14:45 | Hacking                                         |
 | 17:00 | Pause to input result and prepare presentations |
 | 17:15 | Reveal of results                               |
 | 17:30 | Open discussion on reproducibility              |
