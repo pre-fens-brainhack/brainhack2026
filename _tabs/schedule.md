@@ -17,7 +17,7 @@ table th:nth-of-type(2) {
 
 | Time  | Description                                     |
 | :---- | :---------------------------------------------- |
-| 08:30 | Introduction                                    |
+| 08:30 | Breakfast                                       |
 | 09:00 | Introduction                                    |
 | 09:30 | Hacking                                         |
 | 12:00 | Lunch                                           |
